@@ -1,0 +1,126 @@
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\SimpleMessagingApp.exe
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\SimpleMessagingApp.deps.json
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\SimpleMessagingApp.runtimeconfig.json
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\SimpleMessagingApp.dll
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\SimpleMessagingApp.pdb
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\obj\Debug\net6.0-windows\SimpleMessagingApp.csproj.AssemblyReference.cache
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\obj\Debug\net6.0-windows\SimpleMessagingApp.csproj.GenerateResource.cache
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\obj\Debug\net6.0-windows\SimpleMessagingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\obj\Debug\net6.0-windows\SimpleMessagingApp.AssemblyInfoInputs.cache
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\obj\Debug\net6.0-windows\SimpleMessagingApp.AssemblyInfo.cs
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\obj\Debug\net6.0-windows\SimpleMessagingApp.csproj.CoreCompileInputs.cache
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\obj\Debug\net6.0-windows\SimpleMessagingApp.dll
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\obj\Debug\net6.0-windows\refint\SimpleMessagingApp.dll
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\obj\Debug\net6.0-windows\SimpleMessagingApp.pdb
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\obj\Debug\net6.0-windows\SimpleMessagingApp.genruntimeconfig.cache
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\obj\Debug\net6.0-windows\ref\SimpleMessagingApp.dll
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\obj\Debug\net6.0-windows\SimpleMessagingApp.ClientForm.resources
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\obj\Debug\net6.0-windows\SimpleMessagingApp.UI.ServerForm.resources
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\obj\Debug\net6.0-windows\SimpleMessagingApp.csproj.CopyComplete
+C:\Users\nebil.aggun\source\repos\SimpleMessagingApp\SimpleMessagingApp\obj\Debug\net6.0-windows\SimpleMessagingApp.UI.QueryForm.resources
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\SimpleMessagingApp.exe
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\SimpleMessagingApp.deps.json
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\SimpleMessagingApp.runtimeconfig.json
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\SimpleMessagingApp.dll
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\SimpleMessagingApp.pdb
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\obj\Debug\net6.0-windows\SimpleMessagingApp.csproj.AssemblyReference.cache
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\obj\Debug\net6.0-windows\SimpleMessagingApp.UI.QueryForm.resources
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\obj\Debug\net6.0-windows\SimpleMessagingApp.csproj.GenerateResource.cache
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\obj\Debug\net6.0-windows\SimpleMessagingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\obj\Debug\net6.0-windows\SimpleMessagingApp.AssemblyInfoInputs.cache
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\obj\Debug\net6.0-windows\SimpleMessagingApp.AssemblyInfo.cs
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\obj\Debug\net6.0-windows\SimpleMessagingApp.csproj.CoreCompileInputs.cache
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\obj\Debug\net6.0-windows\SimpleMessagingApp.csproj.CopyComplete
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\obj\Debug\net6.0-windows\SimpleMessagingApp.dll
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\obj\Debug\net6.0-windows\refint\SimpleMessagingApp.dll
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\obj\Debug\net6.0-windows\SimpleMessagingApp.pdb
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\obj\Debug\net6.0-windows\SimpleMessagingApp.genruntimeconfig.cache
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\obj\Debug\net6.0-windows\ref\SimpleMessagingApp.dll
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\obj\Debug\net6.0-windows\SimpleMessagingApp.UI.ClientForm.resources
+C:\Users\Nebil Aggun\Desktop\SimpleMessagingApp\SimpleMessagingApp\obj\Debug\net6.0-windows\SimpleMessagingApp.ServerForm.resources
